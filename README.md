@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#Introdução">Introdução</a> |
   <a href="#Bibliotecas Utilizadas">Bibliotecas Utilizadas</a> |
-  <a href="Descrição do Projeto">Descrição do Projeto<a> |
+  <a href="#Descrição do Projeto">Descrição do Projeto<a> |
   <a href="#Detalhamento do Dataset">Detalhamento do Dataset</a> |
   
 # Introdução
