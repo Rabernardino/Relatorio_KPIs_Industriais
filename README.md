@@ -1,9 +1,5 @@
 # Relatorio_KPIs_Industriais
 
-<p align="center">
-  <a href="#Introdução">Introdução</a> |
-  <a href="#Bibliotecas Utilizadas">Bibliotecas Utilizadas</a> |
-  <a href="Descrição do Projeto">Descrição do Projeto<a> |
   
   # Introdução
 <font color ='gray' style = 'font-size: 18px;'></font>
